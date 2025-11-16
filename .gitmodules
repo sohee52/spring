@@ -42,3 +42,7 @@
 	path = spring-gilbut
 	url = https://github.com/sohee52/spring-gilbut.git
 	branch = main
+[submodule "cth-library-app"]
+	path = cth-library-app
+	url = https://github.com/sohee52/cth-library-app.git
+	branch = main
