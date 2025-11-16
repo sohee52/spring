@@ -1,0 +1,44 @@
+[submodule "spring-kyh-start"]
+	path = spring-kyh-start
+	url = https://github.com/sohee52/spring-kyh-start.git
+	branch = main
+[submodule "spring-kyh-basic"]
+	path = spring-kyh-basic
+	url = https://github.com/sohee52/spring-kyh-basic.git
+	branch = main
+[submodule "spring-kyh-mvc1-springmvc"]
+	path = spring-kyh-mvc1-springmvc
+	url = https://github.com/sohee52/spring-kyh-mvc1-springmvc.git
+	branch = main
+[submodule "spring-kyh-mvc1-item-service"]
+	path = spring-kyh-mvc1-item-service
+	url = https://github.com/sohee52/spring-kyh-mvc1-item-service.git
+	branch = main
+[submodule "spring-kyh-mvc1-servlet"]
+	path = spring-kyh-mvc1-servlet
+	url = https://github.com/sohee52/spring-kyh-mvc1-servlet.git
+	branch = main
+[submodule "spring-kyh-mvc2"]
+	path = spring-kyh-mvc2
+	url = https://github.com/sohee52/spring-kyh-mvc2.git
+	branch = main
+[submodule "spring-kyh-db1"]
+	path = spring-kyh-db1
+	url = https://github.com/sohee52/spring-kyh-db1.git
+	branch = main
+[submodule "spring-kyh-db2"]
+	path = spring-kyh-db2
+	url = https://github.com/sohee52/spring-kyh-db2.git
+	branch = main
+[submodule "spring-kyh-advanced"]
+	path = spring-kyh-advanced
+	url = https://github.com/sohee52/spring-kyh-advanced.git
+	branch = main
+[submodule "springboot-kyh"]
+	path = springboot-kyh
+	url = https://github.com/sohee52/springboot-kyh.git
+	branch = main
+[submodule "spring-gilbut"]
+	path = spring-gilbut
+	url = https://github.com/sohee52/spring-gilbut.git
+	branch = main
