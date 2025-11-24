@@ -6,7 +6,7 @@
 | Category | Repository | Visibility |
 |---------|------------|------------|
 | 입문편 | [spring-kyh-start](https://github.com/sohee52/spring-kyh-start) | private |
-| 기본편 | [spring-kyh-basic](https://github.com/sohee52/spring-kyh-basic) | private |
+| 기본편 | [spring-kyh-basic](https://github.com/sohee52/spring-kyh-basic) | public |
 | MVC 1편 | [spring-kyh-mvc1](https://github.com/sohee52/spring-kyh-mvc1) | private |
 | MVC 2편 | [spring-kyh-mvc2](https://github.com/sohee52/spring-kyh-mvc2) | private |
 | DB 1편 | [spring-kyh-db1](https://github.com/sohee52/spring-kyh-db1) | public |
