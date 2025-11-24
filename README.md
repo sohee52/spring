@@ -7,7 +7,7 @@
 |---------|------------|------------|
 | 입문편 | [spring-kyh-start](https://github.com/sohee52/spring-kyh-start) | private |
 | 기본편 | [spring-kyh-basic](https://github.com/sohee52/spring-kyh-basic) | private |
-| MVC 1편 | [spring-kyh-mvc1-item-service]() | private |
+| MVC 1편 | [spring-kyh-mvc1]() | private |
 | MVC 2편 | [spring-kyh-mvc2](https://github.com/sohee52/spring-kyh-mvc2) | private |
 | DB 1편 | [spring-kyh-db1](https://github.com/sohee52/spring-kyh-db1) | public |
 | DB 2편 | [spring-kyh-db2](https://github.com/sohee52/spring-kyh-db2) | private |
