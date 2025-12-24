@@ -1,6 +1,6 @@
 # spring
 
-## 개인 공
+## 개인 공부
 
 | Category | Repository | Visibility |
 |---------|------------|------------|
