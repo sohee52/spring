@@ -11,12 +11,12 @@
 #### 스프링 완전 정복
 | Category | Repository | Visibility |
 |---------|------------|------------|
-| 입문편 | [spring-kyh-start](https://github.com/sohee52/spring-kyh-start) | public |
-| 기본편 | [spring-kyh-basic](https://github.com/sohee52/spring-kyh-basic) | public |
-| HTTP편 | [spring-kyh-http](https://github.com/sohee52/spring-kyh-http) | public |
-| MVC 1편 | [spring-kyh-mvc1](https://github.com/sohee52/spring-kyh-mvc1) | public |
-| MVC 2편 | [spring-kyh-mvc2](https://github.com/sohee52/spring-kyh-mvc2) | public |
-| DB 1편 | [spring-kyh-db1](https://github.com/sohee52/spring-kyh-db1) | public |
+| 입문편 | [spring-kyh-start](https://github.com/sohee52/spring-kyh-start) | private |
+| 기본편 | [spring-kyh-basic](https://github.com/sohee52/spring-kyh-basic) | private |
+| HTTP편 | [spring-kyh-http](https://github.com/sohee52/spring-kyh-http) | private |
+| MVC 1편 | [spring-kyh-mvc1](https://github.com/sohee52/spring-kyh-mvc1) | private |
+| MVC 2편 | [spring-kyh-mvc2](https://github.com/sohee52/spring-kyh-mvc2) | private |
+| DB 1편 | [spring-kyh-db1](https://github.com/sohee52/spring-kyh-db1) | private |
 | DB 2편 | [spring-kyh-db2](https://github.com/sohee52/spring-kyh-db2) | private |
 | 고급편 | [spring-kyh-advanced](https://github.com/sohee52/spring-kyh-advanced) | private |
 | 스프링부트 | [springboot-kyh](https://github.com/sohee52/springboot-kyh) | private |
