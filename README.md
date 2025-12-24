@@ -1,10 +1,10 @@
 # spring
 
-## 기술 아카이브
+## 개인 공
 
 | Category | Repository | Visibility |
 |---------|------------|------------|
-| Spring 관련 기술 정리 및 기록 | [spring-notes](https://github.com/sohee52/spring-notes) | public |
+| 개인 Spring 학습 Repo | [spring-notes](https://github.com/sohee52/spring-notes) | public |
 
 ## 인프런 강의
 ### 김영한
